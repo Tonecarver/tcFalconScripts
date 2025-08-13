@@ -13,7 +13,7 @@ More scripts forthcoming
 
 For example, on Windows:
 
-*C:/Users/(you)/Documents/UVI/Falcon/User Presets/EventProcessors/Script Processor/tonecarver/"
+*C:/Users/(you)/Documents/UVI/Falcon/User Presets/EventProcessors/Script Processor/tonecarver/*
 
 On Mac: 
 
