@@ -13,7 +13,7 @@ More scripts forthcoming
 
 For example, on Windows:
 
-*C:/Users/(you)/Documents/UVI/Falcon/User Presets/EventProcessors/Script Processor/tonecaver/"
+*C:/Users/(you)/Documents/UVI/Falcon/User Presets/EventProcessors/Script Processor/tonecarver/"
 
 On Mac: 
 
@@ -27,6 +27,6 @@ On Linux:
 
 After installation you should have the .lua scripts and relevent "_images" folders
 
-*C:/Users/(you)/Documents/UVI/Falcon/User Presets/EventProcessors/Script Processor/tonecaver/Sequencers/Traveler.lua  
-C:/Users/(you)/Documents/UVI/Falcon/User Presets/EventProcessors/Script Processor/tonecaver/Sequencers/_images  
+*C:/Users/(you)/Documents/UVI/Falcon/User Presets/EventProcessors/Script Processor/tonecarver/Sequencers/Traveler.lua  
+C:/Users/(you)/Documents/UVI/Falcon/User Presets/EventProcessors/Script Processor/tonecarver/Sequencers/_images  
 .. etc.*
